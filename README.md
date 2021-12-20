@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![status](https://github-readme-stats.vercel.app/api?username=Al0nez&show_icons=true&theme=radical)
 <!--
 **Al0nez/Al0nez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
